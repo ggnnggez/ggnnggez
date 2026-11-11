@@ -1,7 +1,7 @@
 ### Hi, I'm Nan Gao 👋
 
 I work on agent runtimes: how an LLM agent runs, how it spends its context, and how you can tell whether it did a good job.
-Committer on ByteDance's [DeerFlow](https://github.com/bytedance/deer-flow) [![stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&logo=github&label=stars&color=555)](https://github.com/bytedance/deer-flow). Before agents, I worked on rendering in a game engine team.
+Committer on ByteDance's [DeerFlow](https://github.com/bytedance/deer-flow) <a href="https://github.com/bytedance/deer-flow"><img align="absbottom" src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&amp;logo=github&amp;label=stars&amp;color=555" alt="stars" /></a>. Before agents, I worked on rendering in a game engine team.
 
 📍 Berlin &nbsp;·&nbsp; 🌐 [nangao.dev](https://nangao.dev) &nbsp;·&nbsp; ✉️ [thunderggnn@gmail.com](mailto:thunderggnn@gmail.com) &nbsp;·&nbsp; [中文](https://github.com/ggnnggez/ggnnggez/blob/main/README.zh-CN.md)
 

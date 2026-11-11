@@ -1,7 +1,7 @@
 ### 你好，我是高楠 👋
 
 我关注 Agent 运行时：一个大模型智能体如何运行、如何使用上下文，以及怎样判断它做得好不好。
-字节跳动 [DeerFlow](https://github.com/bytedance/deer-flow) [![stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&logo=github&label=stars&color=555)](https://github.com/bytedance/deer-flow) committer。做 Agent 之前，我在游戏引擎团队做渲染。
+字节跳动 [DeerFlow](https://github.com/bytedance/deer-flow) <a href="https://github.com/bytedance/deer-flow"><img align="absbottom" src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&amp;logo=github&amp;label=stars&amp;color=555" alt="stars" /></a> committer。做 Agent 之前，我在游戏引擎团队做渲染。
 
 📍 柏林 &nbsp;·&nbsp; 🌐 [nangao.dev](https://nangao.dev) &nbsp;·&nbsp; ✉️ [thunderggnn@gmail.com](mailto:thunderggnn@gmail.com) &nbsp;·&nbsp; [English](https://github.com/ggnnggez)
 
