@@ -14,7 +14,7 @@
 
 **演讲**
 
-<a href="https://www.credly.com/badges/171fb217-9fd3-4430-bbb9-5bf9b7d7e53a"><img align="right" width="100" src="https://images.credly.com/images/3bb5c522-82f1-4535-b80e-f40f877ca3e9/linkedin_thumb_blob" alt="AGNTCon + MCPCon China 2026 Speaker badge" /></a>
+<a href="https://www.credly.com/badges/171fb217-9fd3-4430-bbb9-5bf9b7d7e53a"><img align="right" width="120" src="https://images.credly.com/images/3bb5c522-82f1-4535-b80e-f40f877ca3e9/blob" alt="AGNTCon + MCPCon China 2026 Speaker badge" /></a>
 
 - *From Token Explosion to Semantic Trajectories: Optimizing Agent Execution in DeerFlow*  
   AGNTCon + MCPCon China 2026，上海 · 与 Willem Jiang 联合演讲 · [视频](https://www.youtube.com/watch?v=YQ7Hfy0GCok)
